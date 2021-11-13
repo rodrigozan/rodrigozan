@@ -3,7 +3,7 @@
 Sejam bem-vindas e bem-vindos ao meu Github
 
 <a href="https://github.com/rodrigozan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozan&theme=dracula&layout=compact&langs_count=8)](https://github.com/rodrigozan/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozan&theme=dracula&layout=compact&langs_count=10)](https://github.com/rodrigozan/github-readme-stats" />
 </a>
 <a href="https://github.com/rodrigozan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigozan&show_icons=true&theme=dracula&layout=compact" />
