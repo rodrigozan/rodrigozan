@@ -14,8 +14,9 @@ Meus contatos:
   <a href="mailto:rodrigo.zandonadi.dev@gmail.com" target="_blank"><img align="center" width='60' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     
 - 🔭 Atualmente trabalho com Frontend (HTML5, CSS3, JavaScript, JQuery), PHP, MySQL e PostgreSQL
-- 🌱 Estou estudando Node.js, React, React Native, Java, Oracle
-- 👯 Já desenvolvi aplicações com Angular, TypeScript e Ionic; desenvolvo sites em WordPress
+- 🔭 Conhecimentos adquiridos na faculdade: Python, Java, Oracle
+- 🌱 Interesse em trabalhar como Desenvolvedor Full Stack: Node.js, React, React Native, MongoDB
+- 👯 Trabalhos freelances: Angular, TypeScript e Ionic; PHP, MySQL e WordPress
     
 
 <a hre="#"><img width='100' align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
