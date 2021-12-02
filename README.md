@@ -26,6 +26,8 @@ Aqui você encontrará meus projetos pessoais, projetos de estudo e projetos dos
 <img align="center" alt="Rodrigo Zan - CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rodrigo Zan - JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Rodrigo Zan - TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img alt="Rodrigo Zan - Java" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Rodrigo Zan - PHP" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </div>
 
 ### Frameworks e etc
