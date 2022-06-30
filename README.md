@@ -6,7 +6,7 @@ Aqui você encontrará meus projetos pessoais, projetos de estudo e projetos dos
 
 <div align="center">
   <a href="https://github.com/rodrigozan/convoychat">
-  <img height="180em"g align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozan&theme=dracula&layout=compact&langs_count=10)](https://github.com/rodrigozan/github-readme-stats" />
+  <img height="180em"g align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozan&theme=dracula&layout=compact&langs_count=14)](https://github.com/rodrigozan/github-readme-stats" />
 </a>
 <a href="https://github.com/rodrigozan/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigozan&show_icons=true&theme=dracula&layout=compact" />
