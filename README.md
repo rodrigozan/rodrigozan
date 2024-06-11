@@ -4,11 +4,14 @@ Sejam bem-vindas e bem-vindos ao meu Github
 
 Aqui você encontrará meus projetos pessoais, projetos de estudo e projetos dos quais tenho a permissão para publicar em meu portifólio.
 
-<div align="center">
-<a href="https://github.com/rodrigozan/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigozan&show_icons=true&theme=dracula&layout=compact" />
-</a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigozan&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rodrigozan&show_icons=true&count_private=true&hide_border=true&title_color=65c2dc&icon_color=4fe71d&text_color=fbfaf9&bg_color=7A67AC" alt="Rodrigo Zandonadi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozan&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
 
 ###
 
@@ -30,12 +33,12 @@ Aqui você encontrará meus projetos pessoais, projetos de estudo e projetos dos
 ### Frameworks e etc
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
-  <img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
-  <img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg">
-  <img alt="Rodrigo Zan - Node.js" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Rodrigo Zan - WordPress" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
+  <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
 </div>
 
 ## Visite Meu Blog
